@@ -5,6 +5,6 @@ import "fmt"
 func main() {
 	i
 featur1:
-	1
+	2
 	fmt.Println("vim-go")
 }
