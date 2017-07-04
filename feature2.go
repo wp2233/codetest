@@ -3,7 +3,7 @@ package main
 
 feature21:1
 
-feature22:2
+feature22:3
 
 feature23:1
 
