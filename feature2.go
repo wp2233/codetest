@@ -7,4 +7,4 @@ feature22:3
 
 feature23:1
 
-feature2:3
+feature2:4
